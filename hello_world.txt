@@ -1,0 +1,3 @@
+Hello World!
+I'm new at using git and github.
+This is a file used to learn how git and github work
